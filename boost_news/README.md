@@ -1,4 +1,4 @@
-#Brief info:
+# Brief info:
 
 - Homepage consist of 2 tab bars headlines which fetch api_headlines.dart and news which fetch news related to Bosnia (uses api_everything)
 - In the search bar (you access it when you press upper right corner) you are prompted to a new page where in the first bar you can search which query do you want
