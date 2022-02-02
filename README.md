@@ -17,6 +17,8 @@ Here is what error looks like when you try to GET the API request in browser:
 
 {"status":"error","code":"rateLimited","message":"You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."}
 
+Another error that I have seen is that when you filter by date it only contains data back to one month (In this case from January 1st) when you search data older than that it prompts an error by saying there is no news.
+
 ###### If you have any questions feel free to contact me
 # A few resources to get you started if this is your first Flutter project:
 - Lab: Write your first Flutter app
