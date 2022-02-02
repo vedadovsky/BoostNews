@@ -1,10 +1,13 @@
 # BoostNews
 
-A new Flutter project.
+A flutter project for news (using https://newsapi.org/)
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+###First enter the app folder as follow:
+
 
 A few resources to get you started if this is your first Flutter project:
 
