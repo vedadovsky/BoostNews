@@ -1,4 +1,4 @@
-# news_app
+# BoostNews
 
 A new Flutter project.
 
