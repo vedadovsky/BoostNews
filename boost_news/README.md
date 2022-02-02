@@ -2,11 +2,14 @@
 
 A flutter project for news (using https://newsapi.org/)
 
-## Getting Started
+# Getting Started
 
 This project is a starting point for a Flutter application.
 
-###First enter the app folder as follow:
+##First enter the app folder as follow:
+cd boost_news
+##Run the flutter app:
+flutter run
 
 
 A few resources to get you started if this is your first Flutter project:
