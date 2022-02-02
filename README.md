@@ -4,16 +4,16 @@ A flutter project for news (using https://newsapi.org/)
 # Getting Started
 First enter the app folder as follow:
 
-cd boost_news
+- cd boost_news
 
 Open Emulator or connect via phone
 
 Run the flutter app:
 
 
-flutter run
+- flutter run
 
-(In case it doesent run automaticaly write *flutter pub get* befor flutter run command
+- (In case it doesent run automaticaly write *flutter pub get* befor flutter run command
 
 ## Possible error:
 Due to this app using public API in case that app doesent show the news list then change the API KEYS for folders: api_headlines.dart, api_everything.dart and api_search.dart
