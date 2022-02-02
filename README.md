@@ -6,6 +6,8 @@ First enter the app folder as follow:
 
 cd boost_news
 
+Open Emulator or connect via phone
+
 Run the flutter app:
 
 flutter run
