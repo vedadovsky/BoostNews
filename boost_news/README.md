@@ -9,7 +9,7 @@ This project is a starting point for a Flutter application.
 **First enter the app folder as follow:**
 cd boost_news
 
-**###### Run the flutter app:**
+**Run the flutter app:**
 flutter run
 
 
