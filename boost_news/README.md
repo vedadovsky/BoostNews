@@ -4,8 +4,6 @@ A flutter project for news (using https://newsapi.org/)
 
 # Getting Started
 
-This project is a starting point for a Flutter application.
-
 
 **First enter the app folder as follow:**
 
