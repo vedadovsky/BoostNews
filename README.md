@@ -12,6 +12,7 @@ Run the flutter app:
 
 
 flutter run
+
 (In case it doesent run automaticaly write *flutter pub get* befor flutter run command
 
 ## Possible error:
